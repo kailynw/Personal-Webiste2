@@ -1,0 +1,200 @@
+body{
+background-image: url("Images/computer.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: auto;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	position: static;
+}
+
+#navigation{
+	font-family: 'Tauri', sans-serif;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	decoration: none;
+	font-size: 40px;
+}
+
+#home{
+	text-decoration: none;
+}
+#aboutMe{
+	text-decoration: none;
+}
+#contact{
+	text-decoration: none;
+}
+
+
+#home:hover{
+opacity: .2;
+text-decoration: none;
+}
+
+#aboutMe:hover{
+	opacity: .2;
+	text-decoration: none;
+}
+
+#contact:hover{
+	opacity: .2;
+	text-decoration: none;
+}
+
+#bio{
+	font-family: 'Fugaz One', cursive;
+	font-size: 88px;
+}
+
+#paragraph{
+	font-family: 'Tauri', sans-serif;
+	font-size: 20px;
+	border-style: solid;
+	border-color: black;
+	padding: 10px;
+	color: ivory;
+}
+
+#arrow{
+	margin-align: center;
+	height: 120px;
+	width: 200px;
+	margin-left: 50px;
+	
+}
+
+#upstate{
+	float: center;
+	height: 120px;
+	width: 200px;
+}
+
+#smc{
+	height: 120px;
+	width: 200px;
+	}
+
+#activites{
+font-family: 'Fugaz One', cursive;
+font-size: 80px;
+}
+
+#activ{
+		font-family: 'Tauri', sans-serif;
+	font-size: 25px;
+	padding: 4px;
+}
+#allKsa:hover{
+	opacity: 0.2;
+	color: blue;
+}
+
+#kapp{
+	font-family: 'Tauri', sans-serif;
+	font-size: 20px;
+	padding: 4px;
+	color: ivory;
+}
+
+#ksa{
+width: 180px;
+height: 120px;
+}
+
+#honor{
+	font-family: 'Tauri', sans-serif;
+	font-size: 45px;
+	padding: 4px;
+	color: black;
+}
+
+#list{
+	font-size: 18px;
+	font-family: 'Tauri', sans-serif;
+	font-weight: bold;
+	color: ivory;
+}
+#grad{
+	width: 150px;
+	height: 150px;
+	top: 10px;
+}
+
+#fam{
+	font-family: 'Tauri', sans-serif;
+	font-size: 45px;
+	padding: 4px;
+	color: black;
+}
+
+#fam2{
+	font-family: 'Tauri', sans-serif;
+	font-size: 20px;
+	padding: 4px;
+	font-weight: bold;
+	color: ivory;
+		margin-right: 5%;
+
+}
+
+#couples{
+	float: left;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;
+padding: 0;
+margin:0;
+}
+
+#sisterandI{
+	float: center;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#sisters{
+	float: right;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+padding: 0;
+margin: 0;
+}
+
+#hike{
+	float: center;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#grandma{
+	float: center;
+	height: 220px;
+	width: 12%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#mom{
+	float: center;
+	height: 220px;
+	width: 15%;
+	border-style: solid;
+border-size: 5px;	
+}
+
+#family1{
+	font-size: 25px;
+	border-style: solid;
+	border-color: black;
+	background-image: linear-gradient(grey, blue, grey);
+}
