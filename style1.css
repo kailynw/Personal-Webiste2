@@ -1,0 +1,104 @@
+body{
+background-image: url("Images/computer.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	position: static;
+}
+
+#navigation{
+	font-family: 'Tauri', sans-serif;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	decoration: none;
+	font-size: 40px;
+}
+
+#home{
+	text-decoration: none;
+}
+#aboutMe{
+	text-decoration: none;
+}
+#contact{
+	text-decoration: none;
+}
+
+
+#home:hover{
+opacity: .2;
+text-decoration: none;
+}
+
+#aboutMe:hover{
+	opacity: .2;
+	text-decoration: none;
+}
+
+#contact:hover{
+	opacity: .2;
+	text-decoration: none;
+}
+
+#profilePic{
+	width: 380px;
+	height: 380px;
+
+}
+
+#name{
+	text-align: center;
+	font-family: 'Fugaz One', cursive;
+	font-size: 140px;
+}
+span{
+	color: 	#00CED1;
+}
+
+#welcomeMess{
+	text-align: center;
+	font-family: 'Fugaz One', cursive;
+	font-size: 70px;
+	margin-right: 10%;
+	margin-left: 10%;
+	
+}
+
+#emoji{
+	width: 60px;
+	height: 60px;
+	margin-align: center;
+}
+
+#facebook,#instagram, #linkedin{
+	margin-align: center;
+	width: 98px;
+	height: 98px;
+	position:relative;
+	text-decoration: none;
+}
+#github{
+	width:180px;
+	height: 180px;
+	position:relative;
+	text-decoration: none;
+	top:35px;
+}
+#facebook:hover,#instagram:hover, #linkedin:hover, #github:hover{
+	opacity: .5;
+	transition: all .6s ease-in-out;
+	transform: scale(1.1);
+	
+}
+
+#email{
+	font-size: 20px;
+	color:white;
+	text-decoration:none;
+	}
+
+
